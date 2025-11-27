@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta name="naver-site-verification" content="6b334518924afa7c54409c7f705966fdddae8215" />
+<meta name="google-site-verification" content="glZ7voyDwps2bmQcqst9eEw-1OFL_ZvEtnFHbpwNNog" />
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<!-- 기본 SEO -->
+<title>톰티켓 | 빠른 현금화·급전·소액비상금 즉시 해결 서비스</title>
+<meta name="description" content="톰티켓은 급전·현금화·소액비상금이 필요한 순간 가장 빠르게 자금을 확보할 수 있는 전문 현금화 서비스입니다. 신속 승인, 간편 절차, 즉시 진행까지 톰티켓에서 지금 바로 확인하세요." />
+<link rel="canonical" href="https://example.com/" />
+
+<!-- Open Graph -->
+<meta property="og:locale" content="ko_KR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="톰티켓 | 즉시 현금화·급전 서비스 안내" />
+<meta property="og:description" content="급전이 필요할 때, 톰티켓! 빠른 현금화·소액비상금·긴급자금 정보를 즉시 조회하고 신속한 승인 절차까지 한 번에 안내합니다." />
+<meta property="og:url" content="https://example.com/" />
+<meta property="og:site_name" content="톰티켓" />
+<meta property="og:image" content="https://example.com/og-image.jpg" />
+
+<!-- Twitter 카드 -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="톰티켓 | 빠른 현금화·소액자금 서비스" />
+<meta name="twitter:description" content="톰티켓에서 현금화·급전·소액비상금 정보를 즉시 확인하고 빠르게 이용하세요. 신속 승인과 간편 진행으로 빠른 자금 해결이 가능합니다." />
+<meta name="twitter:image" content="https://example.com/og-image.jpg" />
+
+    <link rel="stylesheet" href="templatemo-graph-page.css">
+
+</head>
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="hero-bg"></div>
+        <div class="geometric-shapes">
+            <div class="shape shape1"></div>
+            <div class="shape shape2"></div>
+            <div class="shape shape3"></div>
+            <div class="shape shape4"></div>
+            <div class="shape shape5"></div>
+            <div class="shape shape6"></div>
+        </div>
+        
+        <div class="hero-content">
+            <div class="hero-text">
+                <h1>톰티켓 현금화 플랫폼<br>Smart Ticket Exchange</h1>
+                <p>톰티켓은 빠르고 안전한 디지털 티켓 거래와 즉시 현금화를 원하는 사용자들을 위해 개발된 전문 플랫폼입니다. 잔여 티켓부터 프리미엄 좌석까지, 누구나 간편하게 사고팔 수 있도록 설계되어 더 높은 가치를 실현하도록 돕습니다.</p>
+                <a href="#dashboard" class="cta-button">지금 바로 톰티켓 시작하기</a>
+            </div>
+            
+            <div class="hero-visual">
+                <div class="city-container">
+                    <div class="building building1">
+                        <div class="building-fill"></div>
+                        <div class="building-windows"></div>
+                    </div>
+                    <div class="building building2">
+                        <div class="building-fill"></div>
+                        <div class="building-windows"></div>
+                    </div>
+                    <div class="building building3">
+                        <div class="building-fill"></div>
+                        <div class="building-windows"></div>
+                    </div>
+                    <div class="building building4">
+                        <div class="building-fill"></div>
+                        <div class="building-windows"></div>
+                    </div>
+                    <div class="neon-line neon-line1"></div>
+                    <div class="neon-line neon-line2"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Dashboard Section -->
+    <section class="dashboard-section" id="dashboard">
+        <div class="dashboard-container">
+            <h2 class="section-title">톰티켓 거래 대시보드</h2>
+            <!-- Stats Cards -->
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-header">
+                        <div class="stat-icon">📊</div>
+                        <div class="stat-title">총 거래 금액</div>
+                    </div>
+                    <div class="stat-value">₩42,847,000</div>
+                    <div class="stat-description">최근 한 달 동안 톰티켓을 통해 진행된 티켓 판매 및 현금화 거래가 꾸준히 증가하며 전체 거래량이 크게 상승했습니다.</div>
+                    <div class="stat-chart">
+                        <canvas class="mini-chart" id="miniChart1"></canvas>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-header">
+                        <div class="stat-icon">👥</div>
+                        <div class="stat-title">활성 사용자</div>
+                    </div>
+                    <div class="stat-value">18.5K</div>
+                    <div class="stat-description">실시간으로 증가하는 톰티켓 이용자 수는 빠른 티켓 매칭과 신속한 판매를 가능하게 합니다.</div>
+                    <div class="stat-chart">
+                        <canvas class="mini-chart" id="miniChart2"></canvas>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-header">
+                        <div class="stat-icon">🎯</div>
+                        <div class="stat-title">거래 성공률</div>
+                    </div>
+                    <div class="stat-value">94.3%</div>
+                    <div class="stat-description">티켓 등록 후 판매 완료까지의 성공률이 매우 높아 톰티켓 현금화 과정이 안정적으로 운영되고 있습니다.</div>
+                    <div class="stat-chart">
+                        <canvas class="mini-chart" id="miniChart3"></canvas>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-header">
+                        <div class="stat-icon">🚀</div>
+                        <div class="stat-title">플랫폼 성능</div>
+                    </div>
+                    <div class="stat-value">7,392</div>
+                    <div class="stat-description">전체 시스템이 빠르게 작동하여 티켓 등록·검색·구매까지 원활하게 진행되도록 최적화되어 있습니다.</div>
+                    <div class="stat-chart">
+                        <canvas class="mini-chart" id="miniChart4"></canvas>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-header">
+                        <div class="stat-icon">💰</div>
+                        <div class="stat-title">월간 성장률</div>
+                    </div>
+                    <div class="stat-value">+28.5%</div>
+                    <div class="stat-description">티켓 재판매 수요 증가와 더불어 톰티켓 현금화 서비스를 찾는 신규 유저가 지속적으로 증가하고 있습니다.</div>
+                    <div class="stat-chart">
+                        <canvas class="mini-chart" id="miniChart5"></canvas>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-header">
+                        <div class="stat-icon">⚡</div>
+                        <div class="stat-title">시스템 안정도</div>
+                    </div>
+                    <div class="stat-value">99.9%</div>
+                    <div class="stat-description">티켓 거래와 현금화가 언제든지 가능한 안정적인 환경을 제공하며 높은 신뢰도를 유지합니다.</div>
+                    <div class="stat-chart">
+                        <canvas class="mini-chart" id="miniChart6"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Analytics Section -->
+    <section class="analytics-section" id="analytics">
+        <div class="dashboard-container">
+            <h2 class="section-title">톰티켓 상세 분석</h2>
+            
+            <!-- Key Metrics Overview -->
+            <div class="metrics-grid">
+                <div class="metric-item">
+                    <div class="metric-value">2.4M</div>
+                    <div class="metric-label">페이지 조회수</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-value">156K</div>
+                    <div class="metric-label">순 방문자</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-value">4.2min</div>
+                    <div class="metric-label">평균 이용 시간</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-value">68%</div>
+                    <div class="metric-label">재방문율</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-value">89</div>
+                    <div class="metric-label">고객 만족도</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-value">3.2K</div>
+                    <div class="metric-label">일일 활성 사용자</div>
+                </div>
+            </div>
+
+            <!-- Chart Cards -->
+            <div class="charts-grid">
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h3 class="chart-title">📈 톰티켓 월간 거래 추세</h3>
+                        <div class="chart-options">
+                            <span class="chart-option active">2024</span>
+                            <span class="chart-option">2023</span>
+                            <span class="chart-option">2022</span>
+                        </div>
+                    </div>
+                    <div class="chart-container">
+                        <div class="bar-chart" id="barChart">
+                            <div class="bar" style="height: 60%">
+                                <span class="bar-value">120</span>
+                                <span class="bar-label">Jan</span>
+                            </div>
+                            <div class="bar" style="height: 80%">
+                                <span class="bar-value">180</span>
+                                <span class="bar-label">Feb</span>
+                            </div>
+                            <div class="bar" style="height: 45%">
+                                <span class="bar-value">90</span>
+                                <span class="bar-label">Mar</span>
+                            </div>
+                            <div class="bar" style="height: 70%">
+                                <span class="bar-value">140</span>
+                                <span class="bar-label">Apr</span>
+                            </div>
+                            <div class="bar" style="height: 90%">
+                                <span class="bar-value">200</span>
+                                <span class="bar-label">May</span>
+                            </div>
+                            <div class="bar" style="height: 65%">
+                                <span class="bar-value">130</span>
+                                <span class="bar-label">Jun</span>
+                            </div>
+                            <div class="bar" style="height: 75%">
+                                <span class="bar-value">150</span>
+                                <span class="bar-label">Jul</span>
+                            </div>
+                            <div class="bar" style="height: 85%">
+                                <span class="bar-value">170</span>
+                                <span class="bar-label">Aug</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h3 class="chart-title">📊 톰티켓 성장 분석</h3>
+                        <div class="chart-options">
+                            <span class="chart-option active">Week</span>
+                            <span class="chart-option">Month</span>
+                            <span class="chart-option">Year</span>
+                        </div>
+                    </div>
+                    <div class="chart-container">
+                        <div class="line-chart">
+                            <svg class="line-chart-svg" viewBox="0 0 500 300">
+                                <defs>
+                                    <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                                        <stop offset="0%" style="stop-color:#00ffcc;stop-opacity:0.5" />
+                                        <stop offset="100%" style="stop-color:#00ffcc;stop-opacity:0" />
+                                    </linearGradient>
+                                </defs>
+                                <!-- Grid lines -->
+                                <line x1="0" y1="50" x2="500" y2="50" class="chart-grid-line" />
+                                <line x1="0" y1="100" x2="500" y2="100" class="chart-grid-line" />
+                                <line x1="0" y1="150" x2="500" y2="150" class="chart-grid-line" />
+                                <line x1="0" y1="200" x2="500" y2="200" class="chart-grid-line" />
+                                <line x1="0" y1="250" x2="500" y2="250" class="chart-grid-line" />
+                                
+                                <!-- Area -->
+                                <path d="M 0,200 L 62,180 L 125,150 L 187,170 L 250,120 L 312,140 L 375,100 L 437,130 L 500,110 L 500,300 L 0,300 Z" class="chart-area" />
+                                
+                                <!-- Line -->
+                                <path d="M 0,200 L 62,180 L 125,150 L 187,170 L 250,120 L 312,140 L 375,100 L 437,130 L 500,110" class="chart-line" />
+                                
+                                <!-- Dots -->
+                                <circle cx="0" cy="200" class="chart-dot" />
+                                <circle cx="62" cy="180" class="chart-dot" />
+                                <circle cx="125" cy="150" class="chart-dot" />
+                                <circle cx="187" cy="170" class="chart-dot" />
+                                <circle cx="250" cy="120" class="chart-dot" />
+                                <circle cx="312" cy="140" class="chart-dot" />
+                                <circle cx="375" cy="100" class="chart-dot" />
+                                <circle cx="437" cy="130" class="chart-dot" />
+                                <circle cx="500" cy="110" class="chart-dot" />
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h3 class="chart-title">🌍 톰티켓 유저 분포</h3>
+                        <div class="chart-options">
+                            <span class="chart-option active">Global</span>
+                            <span class="chart-option">US</span>
+                            <span class="chart-option">EU</span>
+                        </div>
+                    </div>
+                    <div class="chart-container">
+                        <div class="bar-chart">
+                            <div class="bar" style="height: 85%; background: linear-gradient(180deg, #ff6b6b 0%, #ff8e53 100%);">
+                                <span class="bar-value">42%</span>
+                                <span class="bar-label">USA</span>
+                            </div>
+                            <div class="bar" style="height: 65%; background: linear-gradient(180deg, #4ecdc4 0%, #44a08d 100%);">
+                                <span class="bar-value">28%</span>
+                                <span class="bar-label">EU</span>
+                            </div>
+                            <div class="bar" style="height: 45%; background: linear-gradient(180deg, #45b7d1 0%, #96c93d 100%);">
+                                <span class="bar-value">18%</span>
+                                <span class="bar-label">Asia</span>
+                            </div>
+                            <div class="bar" style="height: 25%; background: linear-gradient(180deg, #f093fb 0%, #f5576c 100%);">
+                                <span class="bar-value">12%</span>
+                                <span class="bar-label">Other</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h3 class="chart-title">📱 기기별 톰티켓 이용량</h3>
+                        <div class="chart-options">
+                            <span class="chart-option active">This Month</span>
+                            <span class="chart-option">Last Month</span>
+                            <span class="chart-option">YTD</span>
+                        </div>
+                    </div>
+                    <div class="chart-container">
+                        <div class="line-chart">
+                            <svg class="line-chart-svg" viewBox="0 0 500 300">
+                                <defs>
+                                    <linearGradient id="gradient2" x1="0%" y1="0%" x2="0%" y2="100%">
+                                        <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:0.5" />
+                                        <stop offset="100%" style="stop-color:#ff6b6b;stop-opacity:0" />
+                                    </linearGradient>
+                                </defs>
+                                <!-- Grid lines -->
+                                <line x1="0" y1="60" x2="500" y2="60" class="chart-grid-line" />
+                                <line x1="0" y1="120" x2="500" y2="120" class="chart-grid-line" />
+                                <line x1="0" y1="180" x2="500" y2="180" class="chart-grid-line" />
+                                <line x1="0" y1="240" x2="500" y2="240" class="chart-grid-line" />
+                                
+                                <!-- Mobile Line -->
+                                <path d="M 0,180 L 71,160 L 142,140 L 214,120 L 285,100 L 357,90 L 428,80 L 500,70" stroke="#ff6b6b" stroke-width="2" fill="none" filter="drop-shadow(0 0 10px rgba(255, 107, 107, 0.5))"/>
+                                
+                                <!-- Desktop Line -->
+                                <path d="M 0,220 L 71,210 L 142,200 L 214,190 L 285,185 L 357,180 L 428,175 L 500,170" stroke="#00ffcc" stroke-width="2" fill="none" filter="drop-shadow(0 0 10px rgba(0, 255, 204, 0.5))"/>
+                                
+                                <!-- Mobile dots -->
+                                <circle cx="0" cy="180" r="4" fill="#ff6b6b" />
+                                <circle cx="71" cy="160" r="4" fill="#ff6b6b" />
+                                <circle cx="142" cy="140" r="4" fill="#ff6b6b" />
+                                <circle cx="214" cy="120" r="4" fill="#ff6b6b" />
+                                <circle cx="285" cy="100" r="4" fill="#ff6b6b" />
+                                <circle cx="357" cy="90" r="4" fill="#ff6b6b" />
+                                <circle cx="428" cy="80" r="4" fill="#ff6b6b" />
+                                <circle cx="500" cy="70" r="4" fill="#ff6b6b" />
+                                
+                                <!-- Desktop dots -->
+                                <circle cx="0" cy="220" r="4" fill="#00ffcc" />
+                                <circle cx="71" cy="210" r="4" fill="#00ffcc" />
+                                <circle cx="142" cy="200" r="4" fill="#00ffcc" />
+                                <circle cx="214" cy="190" r="4" fill="#00ffcc" />
+                                <circle cx="285" cy="185" r="4" fill="#00ffcc" />
+                                <circle cx="357" cy="180" r="4" fill="#00ffcc" />
+                                <circle cx="428" cy="175" r="4" fill="#00ffcc" />
+                                <circle cx="500" cy="170" r="4" fill="#00ffcc" />
+                                
+                                <!-- Labels -->
+                                <text x="20" y="50" fill="#ff6b6b" font-size="12">Mobile</text>
+                                <text x="20" y="35" fill="#00ffcc" font-size="12">Desktop</text>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Reports Section -->
+    <section class="reports-section" id="reports">
+        <div class="report-container">
+            <h2 class="section-title">톰티켓 이용 리포트</h2>
+            <p class="section-desc">
+                톰티켓은 다양한 티켓 거래와 빠른 현금화 서비스를 기반으로 사용자 경험을 분석하고 있습니다.
+                아래 리포트는 최근 고객 이용 패턴, 거래 성공률, 현금화 요청 증가율 등
+                실제 톰티켓 플랫폼 운영 데이터를 기반으로 구성되었습니다.
+            </p>
+
+            <!-- Report Cards -->
+            <div class="report-grid">
+                <div class="report-card">
+                    <h3 class="report-title">💳 티켓 현금화 트렌드</h3>
+                    <p class="report-text">
+                        최근 톰티켓에서 진행된 현금화 요청은 이전 대비 크게 증가한 것으로 나타났습니다.
+                        특히 모바일 교환권, 상품권, 예매권 거래가 폭발적으로 늘어나며
+                        톰티켓의 핵심 사용자층이 빠르게 확대되고 있습니다.
+                        안정적인 매입가 제공과 신속한 정산 덕분에 재이용률도 높은 편입니다.
+                    </p>
+                </div>
+
+                <div class="report-card">
+                    <h3 class="report-title">📦 톰티켓 인기 품목 분석</h3>
+                    <p class="report-text">
+                        톰티켓에서 가장 많이 거래된 품목은 문화상품권, 구글 기프트카드, 네이버페이 충전권 등
+                        언제든지 빠르게 현금화할 수 있는 티켓 유형이 상위권을 차지했습니다.
+                        사용자는 간편한 절차와 높은 매입률을 이유로 톰티켓을 선호하는 것으로 분석됩니다.
+                    </p>
+                </div>
+
+                <div class="report-card">
+                    <h3 class="report-title">📈 톰티켓 성장 지표</h3>
+                    <p class="report-text">
+                        톰티켓 플랫폼의 월간 활성 이용자는 꾸준히 상승하고 있으며,
+                        신규 가입자의 70% 이상이 추천 또는 검색 유입을 통해 방문하고 있습니다.
+                        '톰티켓 현금화', '톰티켓 매입', '톰티켓 판매'와 같은 키워드 검색량도 지속 증가 중입니다.
+                        빠른 처리 속도와 고객 신뢰 구축이 성장을 견인하는 주요 요인으로 확인됩니다.
+                    </p>
+                </div>
+
+                <div class="report-card">
+                    <h3 class="report-title">🔍 사용자 행동 분석</h3>
+                    <p class="report-text">
+                        분석 결과 대부분의 사용자는 톰티켓을 통해 간편하게 현금화를 진행하고 있으며,
+                        매입가 비교·처리 속도·정산 방식 등을 중점적으로 살펴보는 것으로 나타났습니다.
+                        특히 새롭게 유입된 이용자들은 톰티켓의 ‘빠른 승인’과 ‘즉시 정산’ 기능에 크게 만족했습니다.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Contact Section -->
+    <section class="contact-section" id="contact">
+        <div class="dashboard-container">
+            <h2 class="section-title">톰티켓 고객지원</h2>
+            <p class="section-desc" style="margin-bottom:40px; color:#cfcfcf;">
+                톰티켓은 언제든지 빠르고 안정적인 현금화 서비스를 제공하기 위해 전문 상담팀이 대기하고 있습니다.
+                거래 문의, 현금화 절차, 매입 가능 품목 등에 대한 궁금증을 아래 문의를 통해 자유롭게 남겨주세요.
+            </p>
+
+            <div class="contact-grid">
+                <!-- Contact Form -->
+                <div class="contact-form">
+                    <h3 style="margin-bottom: 30px; font-size: 24px;">톰티켓 문의하기</h3>
+                    <p style="margin-bottom:20px; color:#bdbdbd; line-height:1.6;">
+                        현금화 요청 또는 톰티켓 서비스 이용 관련 문의를 남겨주시면
+                        최대한 빠르게 전문 매니저가 답변 드립니다.  
+                        간단한 정보만 입력하면 즉시 상담이 가능합니다.
+                    </p>
+
+                    <form id="contactForm">
+                        <div class="form-group">
+                            <label for="name">성함</label>
+                            <input type="text" id="name" name="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">이메일 주소</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="subject">문의 제목</label>
+                            <input type="text" id="subject" name="subject" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">문의 내용</label>
+                            <textarea id="message" name="message" required placeholder="거래 문의, 현금화 요청, 매입 가능 품목 등을 입력해주세요."></textarea>
+                        </div>
+                        <button type="submit" class="cta-button" style="width: 100%;">문의 보내기</button>
+                    </form>
+                </div>
+
+                <!-- Contact Info -->
+                <div class="contact-info">
+                    <h3>톰티켓 연락처</h3>
+                    <p style="margin-bottom:20px; color:#bdbdbd; line-height:1.6;">
+                        톰티켓은 빠른 응답과 안정적인 현금화 지원을 위해  
+                        이메일 · 전화 · 실시간 위치 안내를 제공하고 있습니다.
+                    </p>
+
+                    <a href="mailto:hello@tomticket.com" class="contact-item" style="text-decoration: none; color: inherit;">
+                        <div class="contact-icon">📧</div>
+                        <div class="contact-details">
+                            <h4>이메일 문의</h4>
+                            <p>hello@tomticket.com<br>support@tomticket.com</p>
+                        </div>
+                    </a>
+
+                    <a href="tel:+15551234567" class="contact-item" style="text-decoration: none; color: inherit;">
+                        <div class="contact-icon">📞</div>
+                        <div class="contact-details">
+                            <h4>전화 상담</h4>
+                            <p>+1 (555) 123-4567<br>24시간 접수 가능</p>
+                        </div>
+                    </a>
+
+                    <a href="https://maps.google.com/?q=123+TomTicket+Center+Suite+100" target="_blank" rel="noopener" class="contact-item" style="text-decoration: none; color: inherit;">
+                        <div class="contact-icon">📍</div>
+                        <div class="contact-details">
+                            <h4>오피스 위치</h4>
+                            <p>123 TomTicket Center, Suite 100<br>Digital City, DC 20246</p>
+                        </div>
+                    </a>
+
+                    <div class="contact-item">
+                        <div class="contact-icon">🕒</div>
+                        <div class="contact-details">
+                            <h4>운영 시간</h4>
+                            <p>월 - 금: 9:00 AM - 6:00 PM<br>주말: 긴급 문의만 가능</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <p class="copyright">
+                © 2026 TomTicket. All rights reserved.  
+                빠르고 안정적인 현금화 서비스를 통해 누구나 믿고 사용할 수 있는 플랫폼을 목표로 합니다.  
+            </p>
+        </div>
+    </footer>
+
+</html>
